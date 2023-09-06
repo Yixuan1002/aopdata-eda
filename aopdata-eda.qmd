@@ -1,0 +1,21 @@
+---
+title: "AOP Data EDA"
+author: "Yixuan Li"
+format: html
+editor: visual
+---
+
+```{r}
+# git - like R
+# github - like R studio
+
+# git config --global user.name "YixuanLi"
+# this is used to set user name
+# git config --global user.email "yl1433@georgetown.edu"
+# this is used to set user email
+# git config --list
+
+# git status
+# for knowing where we are now
+# 比如在例子中，告诉我们我们在branch main上，untracked files有什么
+```
